@@ -36,7 +36,6 @@ function Navbar() {
           </a>
         </div>
       </div>
-      Navbar
     </div>
   );
 }
