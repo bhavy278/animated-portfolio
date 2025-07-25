@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import React from "react";
 
-const items = ["Home", "Services", "Portfolio", "Contact", "About"];
+const items = ["Home", "Services", "Portfolio", "Contact"];
 
 const variants = {
   open: {

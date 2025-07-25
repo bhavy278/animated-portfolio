@@ -22,13 +22,11 @@ function App() {
         <section>
           <Services />
         </section>
-        <section>
+        <section id="Portfolio">
           <Parallax type={"portfolio"} />
         </section>
-        {/* <section> */}
         <Portfolio />
-        {/* </section> */}
-        <section>
+        <section id="Contact">
           <Contact />
         </section>
       </div>
