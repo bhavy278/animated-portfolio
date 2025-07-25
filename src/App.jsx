@@ -4,7 +4,6 @@ import Navbar from "./components/navbar/Navbar";
 import Parallax from "./components/parallax/Parallax";
 import Portfolio from "./components/portfolio/Portfolio";
 import Services from "./components/services/Services";
-import Test from "./components/test/Test";
 
 function App() {
   return (
@@ -23,7 +22,9 @@ function App() {
         <section>
           <Parallax type={"portfolio"} />
         </section>
-        
+        <section>
+          <Portfolio />
+        </section>
       </div>
     </>
   );
