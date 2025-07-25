@@ -26,5 +26,20 @@ An animated, fully responsive portfolio website built using **React**, **SCSS**,
 
 ---
 
+## 🧠 Inspiration
 
-## 🧩 Folder Structure
+Inspired by the need for a clean, animated personal portfolio with full responsiveness and professional transitions using modern tools.
+
+---
+
+## 📩 Contact
+
+If you like this project or want to collaborate:
+
+- Portfolio: [https://frameranimatedportfolio.netlify.app/](https://frameranimatedportfolio.netlify.app/)
+- GitHub: [Your GitHub Profile](https://github.com/bhavy278)
+- Email: bhavy0606@gmail.com
+
+---
+
+⭐ If you like this project, give it a star and consider following!
