@@ -16,7 +16,7 @@ export default function Cursor() {
   return (
     <motion.div
       className="cursor"
-      animate={{ x: position.x - 12, y: position.y - 12 }}
+      animate={{ x: position.x + 15, y: position.y + 15 }}
     ></motion.div>
   );
 }
