@@ -1,5 +1,9 @@
 import "./App.scss";
+import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
+import Parallax from "./components/parallax/Parallax";
+import Portfolio from "./components/portfolio/Portfolio";
+import Services from "./components/services/Services";
 import Test from "./components/test/Test";
 
 function App() {
@@ -8,12 +12,18 @@ function App() {
       <div>
         <section id="Home">
           <Navbar />
-          <a href="">Hero</a>
+          <Hero />
         </section>
-        <section id="Services">Services</section>
-        <section id="Portfolio">Portfolio</section>
-        <section id="Contact">Contact</section>
-        <section id="About">About</section>
+        <section id="Services">
+          <Parallax type={"services"} />
+        </section>
+        <section>
+          <Services />
+        </section>
+        <section>
+          <Parallax type={"portfolio"} />
+        </section>
+        
       </div>
     </>
   );
